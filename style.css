@@ -2,3 +2,20 @@
     font-family: helvetica !important;
     font-style: italic !important;
 }
+
+/*@media (max-width: 767px) {*/
+/*    .wrapper {*/
+/*        display: none;*/
+/*    }*/
+/*    .content-box{*/
+        
+/*    }*/
+/*}*/
+
+.card {
+    margin:100px 25px 100px;
+}
+
+.mottocontainer {
+    margin:100px 0px 100px;
+}
